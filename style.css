@@ -3,7 +3,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-
 body{
     padding: 5%;
     background-color: lightgoldenrodyellow;
@@ -13,7 +12,4 @@ body{
 form{
     display: flex;
     flex-direction: column;
-}
-.fname, .lname{
-    color: aqua;
 }
